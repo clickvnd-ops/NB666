@@ -1,0 +1,66 @@
+{
+  "thien_phu": {
+    "priority": [
+      "game_data/game/js/plugins/Xiao_SJ.js",
+      "game_data/game/js/libs/json/Map005.json",
+      "game_data/game/js/libs/json/CommonEvents.json",
+      "game_data/game/img/parallaxes/$MGT_Talent.webp"
+    ],
+    "doc": "AI_INDEX/FEATURES/THIEN_PHU.md"
+  },
+  "co_than": {
+    "priority": [
+      "game_data/game/js/plugins/Web_AncientEquipment.js",
+      "game_data/web-shell.js",
+      "game_data/game/js/libs/json/Weapons.json",
+      "game_data/game/js/libs/json/Armors.json"
+    ],
+    "doc": "AI_INDEX/FEATURES/CO_THAN.md"
+  },
+  "tu_tien": {
+    "priority": [
+      "game_data/game/js/plugins/Web_Immortal.js",
+      "game_data/game/js/plugins/Web_ImmortalNPC.js"
+    ],
+    "doc": "AI_INDEX/FEATURES/TU_TIEN.md"
+  },
+  "combat": {
+    "priority": [
+      "game_data/game/js/rpg_objects.js",
+      "game_data/game/js/rpg_managers.js"
+    ],
+    "doc": "AI_INDEX/FEATURES/COMBAT.md"
+  },
+  "save_load": {
+    "priority": [
+      "game_data/game/js/rpg_managers.js"
+    ],
+    "doc": "AI_INDEX/FEATURES/SAVE_LOAD.md"
+  },
+  "server_build": {
+    "priority": [
+      "server.cjs",
+      "validate.cjs",
+      "package.json"
+    ],
+    "doc": "AI_INDEX/FEATURES/SERVER_BUILD.md"
+  },
+  "shop_items": {
+    "index": "AI_INDEX/FEATURES/SHOP_ITEMS.md",
+    "priority": [
+      "game_data/game/js/plugins/Drill_SceneLimitedShop.js",
+      "game_data/game/js/plugins/YEP_ItemCore.js",
+      "game_data/game/js/libs/json/Items.json",
+      "game_data/game/js/libs/json/Weapons.json",
+      "game_data/game/js/libs/json/Armors.json"
+    ]
+  },
+  "age_lifecycle": {
+    "index": "AI_INDEX/FEATURES/AGE_LIFECYCLE.md",
+    "priority": [
+      "game_data/game/js/plugins/Web_Immortal.js",
+      "game_data/game/js/libs/json/CommonEvents.json",
+      "game_data/game/js/libs/json/System.json"
+    ]
+  }
+}

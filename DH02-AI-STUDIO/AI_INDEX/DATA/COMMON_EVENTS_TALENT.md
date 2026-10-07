@@ -1,0 +1,22 @@
+# COMMON EVENTS — TALENT
+
+- ID 8: `【nút bấm】nghịch thiên cải mệnh` — 6 commands
+- ID 40: `【thiên phú】-0- Lựa chọn` — 22 commands
+- ID 41: `【thiên phú】-1- Lựa chọn` — 9 commands
+- ID 42: `【thiên phú】-2- Lựa chọn` — 9 commands
+- ID 43: `【thiên phú】-3- Lựa chọn` — 9 commands
+- ID 44: `【thiên phú】-4- Lựa chọn` — 9 commands
+- ID 45: `【thiên phú】-5- Lựa chọn` — 9 commands
+- ID 46: `【thiên phú】-6- Lựa chọn` — 9 commands
+- ID 47: `【thiên phú】-7- Lựa chọn` — 9 commands
+- ID 48: `【thiên phú】 kết quả ban thưởng` — 1261 commands
+- ID 49: `【thiên phú】 Khởi tạo ` — 33 commands
+- ID 50: `【thiên phú】 Phẩm chất Khởi tạo ` — 21 commands
+- ID 51: `【thiên phú】 ngẫu nhiên` — 59 commands
+- ID 52: `【thiên phú】 Lục-sự kiện` — 489 commands
+- ID 53: `【thiên phú】 Lam-sự kiện` — 453 commands
+- ID 54: `【thiên phú】 Tử-sự kiện` — 405 commands
+- ID 55: `【thiên phú】 Hồng-sự kiện` — 327 commands
+- ID 56: `【thiên phú】 hàng năm phát động kết toán` — 470 commands
+- ID 60: `thiên phú thẩm tra/Hiển thị hiệu quả` — 23 commands
+- ID 66: `【thiên phú】 kết quả ban thưởngII` — 185 commands
